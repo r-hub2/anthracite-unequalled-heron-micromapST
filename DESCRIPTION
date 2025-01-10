@@ -55,7 +55,7 @@ LazyLoad: no
 BuildResaveData: best
 ByteCompile: yes
 NeedsCompilation: no
-Packaged: 2025-01-09 02:50:30 UTC; jpear
+Packaged: 2025-01-10 16:23:31 UTC; jpear
 Repository: CRAN
 Date/Publication: 2024-04-16 11:50:02 UTC
 RoxygenNote: 7.2.3
